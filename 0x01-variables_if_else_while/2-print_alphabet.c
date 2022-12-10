@@ -16,5 +16,8 @@ int main(void)
 		ch++;
 	}
 	putchar('\n');
+	{
+		printf("alphabets\n");
+	}
 	return (0);
 }
