@@ -2,13 +2,12 @@
 #include <stdlib.h>
 
 /**
- * main - prints the minimum number of coins to make change for an amount of money.
+ * main - prints the min number of coins to make change
+ * for an amount of money
  * @argc: argument count
- * @argv: array of argument
- * Return: Always 0 (Success)
- * Code by Masino
+ * @argv: arguments
+ * Return: 0
  */
-
 int main(int argc, char **argv)
 {
 	int total, count;
