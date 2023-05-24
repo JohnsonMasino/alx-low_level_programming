@@ -1,2 +1,2 @@
-all : main.c school.c printall.c header.h
-	 gcc main.c school.c printall.c -o school
+all : main.c school.c header.h
+	 gcc main.c school.c -o school
